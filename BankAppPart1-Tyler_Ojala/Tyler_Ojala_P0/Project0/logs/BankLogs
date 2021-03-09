@@ -1,0 +1,24 @@
+2020-12-12 09:15:05 INFO  ConsoleHandler:349 - Tim has deposited 3241.0 from 9
+2020-12-12 11:14:22 INFO  ConsoleHandler:349 - Tim has deposited 230349.0 from 10
+2020-12-12 11:14:31 INFO  ConsoleHandler:329 - Tim has withdrawn 50.0 from 10
+2020-12-12 23:23:05 INFO  ConsoleHandler:335 - Jim has deposited 1234.0 from 9
+2020-12-12 23:24:06 INFO  ConsoleHandler:335 - Jim has deposited 1.0 from 10
+2020-12-12 23:24:13 INFO  ConsoleHandler:335 - Jim has deposited 1.0 from 9
+2020-12-12 23:26:07 INFO  ConsoleHandler:335 - Jim has deposited 1.0 from 10
+2020-12-12 23:28:33 INFO  ConsoleHandler:337 - Jim has deposited 6969.0 from 69
+2020-12-13 07:15:07 INFO  ConsoleHandler:337 - Tim has deposited 690000.0 from 69
+2020-12-13 09:03:50 INFO  ConsoleHandler:339 - Tyler has deposited 183.0 to 3
+2020-12-15 16:23:45 INFO  ConsoleHandler:371 - user has deposited 100.0 to 198
+2020-12-15 16:23:58 INFO  ConsoleHandler:351 - user has withdrawn 50.0 from 198
+2020-12-21 15:54:16 INFO  ConsoleHandler:371 - Jim has deposited 2093.0 to 69
+2020-12-21 16:01:09 INFO  ConsoleHandler:384 - yes has deposited 50.0 to 100
+2020-12-22 12:34:30 INFO  ConsoleHandler:384 - Tim has deposited 99.0 to 7
+2020-12-22 12:35:15 INFO  ConsoleHandler:384 - Tim has deposited 10.0 to 100
+2020-12-22 12:35:47 INFO  ConsoleHandler:384 - Tim has deposited 20.0 to 100
+2020-12-22 13:11:14 INFO  ConsoleHandler:384 - Tim has deposited 30.0 to 100
+2020-12-22 13:11:52 INFO  ConsoleHandler:384 - Tim has deposited 30.0 to 100
+2020-12-22 13:13:11 INFO  ConsoleHandler:384 - Tim has deposited 110.0 to 100
+2020-12-22 13:14:10 INFO  ConsoleHandler:384 - Tim has deposited 110.0 to 100
+2020-12-22 13:15:12 INFO  ConsoleHandler:384 - Tim has deposited 110.0 to 100
+2020-12-22 16:59:39 INFO  ConsoleHandler:444 - Tim has deposited 500.0 to 69
+2020-12-22 16:59:57 INFO  ConsoleHandler:389 - Tim has transfered 500.0 from 69 to 13
